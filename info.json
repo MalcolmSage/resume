@@ -1,0 +1,25 @@
+{
+    "name": "malcolm-sage-resume",
+    "website": "https://github.com/MalcolmSage",
+    "linkedin": "https://www.linkedin.com/in/malcolm-mayfield/",
+    "github": "MalcolmSage",
+    "email": "malcolm.sage9@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Photography",
+        "Writing",
+        "Communication"
+    ]
+}
